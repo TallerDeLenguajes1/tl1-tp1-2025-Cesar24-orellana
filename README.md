@@ -18,7 +18,7 @@ _¿Cómo configuraría el archivo .gitignore?_
 5. Agrega las rutas de los archivos o directorios que quieres que Git ignore, cada una en una línea nueva.
 6. Guarda y cierra el archivo.gitignore
 
-#Ignorar un archvo.txt
+## Ignorar un archvo.txt
 - Elimina el archivo del repositorio
     Si el archivo ya esta confirmado
 - Crea un archivo .gitignore
@@ -27,5 +27,6 @@ _¿Cómo configuraría el archivo .gitignore?_
 - Actualiza el repositorio
     Vuelve a hacer un commit y actualiza el repositorio y ya queda ignorado
 
-# 3.c_ Veo los archivos .gitignore, README.md y tp1_1.c
+# 3.c_ 
+    Veo los archivos .gitignore, README.md y tp1_1.c
     El Archivo q no haria falta seria los archivos ".exe"
