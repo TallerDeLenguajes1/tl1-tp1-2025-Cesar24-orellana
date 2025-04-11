@@ -26,3 +26,6 @@ _¿Cómo configuraría el archivo .gitignore?_
         En cada nueva linea, agrega el archivo o carpeta que quieras que git ignore
     - Actualiza el repositorio
         Vuelve a hacer un commit y actualiza el repositorio y ya queda ignorado
+
+    3.c_ Veo los archivos .gitignore, README.md y tp1_1.c
+        El Archivo q no haria falta seria los archivos ".exe"
