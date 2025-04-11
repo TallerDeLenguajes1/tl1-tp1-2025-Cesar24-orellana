@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
 
-### .gitignore
+# .gitignore
 _¿Por qué es conveniente incluirlo?_
     Es convenite utilizarlo para evitar que se incluyan archivos que no son necesarios en un repositorio remoto
 
@@ -18,7 +18,7 @@ _¿Cómo configuraría el archivo .gitignore?_
 5. Agrega las rutas de los archivos o directorios que quieres que Git ignore, cada una en una línea nueva.
 6. Guarda y cierra el archivo.gitignore
 
-## Ignorar un archvo.txt
+#### Ignorar un archvo.txt
 - Elimina el archivo del repositorio
     Si el archivo ya esta confirmado
 - Crea un archivo .gitignore
@@ -27,6 +27,6 @@ _¿Cómo configuraría el archivo .gitignore?_
 - Actualiza el repositorio
     Vuelve a hacer un commit y actualiza el repositorio y ya queda ignorado
 
-# 3.c_ 
+#### 3.c_ 
     Veo los archivos .gitignore, README.md y tp1_1.c
     El Archivo q no haria falta seria los archivos ".exe"
